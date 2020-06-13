@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@300&display=swap");
+@import url(components/picture.css);
+@import url(components/habile.css);
+@import url(components/sithebe.css);
+@import url(components/container.css);
+@import url(components/banner.css);
+@import url(components/button.css);
+@import url(components/card.css);
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+.text-blue:hover{
+	font-weight: bold;
+	text-decoration: none;
+}
+.head{
+	margin-left: 200px;
+    margin-bottom: 25px;
+    margin-top: 10px;
+    padding: 15px;
+}	
+
+h1{
+	color: maroon;
+}
